@@ -5,8 +5,7 @@
 
 `https://ssl.gstatic.com/dictionary/static/sounds/oxford/english--_gb_1.mp3`
 
-替换其中`english`即可，必须全部
-小写
+替换其中`english`即可，必须全部小写
 
 `https://forvo.com`
 
@@ -21,3 +20,7 @@
 `http://dict.cn/english`
 
 替换其中`english`即可
+
+## 语料库
+
+`美国当代英语语料库(Corpus of Contemporary American English,简称COCA)`
