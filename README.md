@@ -23,4 +23,4 @@
 
 ## 语料库
 
-`美国当代英语语料库(Corpus of Contemporary American English,简称COCA)`
+[美国当代英语语料库(Corpus of Contemporary American English,简称COCA)](https://corpus.byu.edu/coca/)
